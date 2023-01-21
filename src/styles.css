@@ -16,3 +16,10 @@ body{
     transform: scale(1.25);
     transition: 0.4s;  
 }
+
+.navbar{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+}
